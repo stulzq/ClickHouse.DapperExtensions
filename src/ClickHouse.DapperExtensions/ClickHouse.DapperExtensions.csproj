@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>stulzq</Authors>
-    <Description></Description>
+    <Description>ClickHouse bulk insert with Dapper.</Description>
     <PackageProjectUrl>https://github.com/stulzq/ClickHouse.DapperExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/stulzq/ClickHouse.DapperExtensions.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
